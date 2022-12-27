@@ -58,7 +58,7 @@ const AddTodoInput = () => {
     >
       <input
         className={styles.input}
-        placeholder="Buy some milk"
+        placeholder="hello world"
         value={text}
         onChange={e => setText(e.target.value)}
       />
